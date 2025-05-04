@@ -1,3 +1,6 @@
+## LIBRARY MANAGEMENT ERD
+https://drive.google.com/file/d/1j2Bmb5yyDJ_I3KClJuestBYPx87n65Jd/view?usp=sharing
+
 ## TRIP PLANNER API
 This REST API for Trip planning was built with FastAPI, SQLAlchemy, and SQLWorkbench.
 
