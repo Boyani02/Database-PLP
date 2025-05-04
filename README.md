@@ -3,7 +3,7 @@ This REST API for Trip planning was built with FastAPI, SQLAlchemy, and SQLWorkb
 
 ## How to run the Project
 - Install MySQL Workbench
-- Install Python
+- Install Python,Pydantic<2.0
 - Create your virtualenv with `python -m venv env` and activate it `env/Scripts/activate`.
 - Install the following requirements:
        -`pip install fastapi`
